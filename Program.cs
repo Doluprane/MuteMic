@@ -11,7 +11,8 @@ namespace MuteMic
             {
                 { "Spotify", 1 },
                 { "Discord", 0.3F },
-                { "Idle", 0.1F }
+                { "Idle", 0.1F },
+                { "ShellExperienceHost", 0.1F }
             };
 
             // ## Setting custom volume depending on app
